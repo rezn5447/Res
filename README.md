@@ -74,8 +74,8 @@ Skills Used - Unreal Engine 4, Github for Unreal, Maya, Mudbox,
 and Xbox Kinect for Motion Capture
 
 # EMPLOYMENT
-## INAB Santa Barbara, CA
-Full Stack Mobile Developer Oct 2015 to Current
+## INAB - Santa Barbara, CA
+Full Stack Mobile Developer  - Oct 2015 to Current
 <ul>
 <li>Mobile Application Designed to let stadium goes order beverages
 directly to their seats</li>
@@ -84,17 +84,20 @@ time for customers to get updates on their orders</li>
 <li>Processing payments through Square gives vendors more potential tip percentages</li>
 </ul>
 ## LEVEL DESIGNER, YESNINJA! Santa Barbara, CA
-Level Designer Sep 2013 to Aug 2015
-
-Game Programming and Design Using Unreal Engine Editor
-Motion Capture Using Autodesk Maya and Xbox Kinect
-Cutscene Animation In Unreal Editor
-## SANTA YNEZ VALLEY SAFE ACCESS Santa Ynez, CA
-Lead Designer May 2015 to Sep 2015
-Made a Squarespace account for a Non-profit organization
-Two Step Verification Process Grants Access to Online
-Marketplace
-50+ Verified Users in the Santa Ynez valley currently using the product today
+Level Designer - Sep 2013 to Aug 2015
+<ul>
+<li>Game Programming and Design Using Unreal Engine Editor</li>
+<li>Motion Capture Using Autodesk Maya and Xbox Kinect</li>
+<li>Cutscene Animation In Unreal Editor</li>
+</ul>
+## SANTA YNEZ VALLEY SAFE ACCESS -  Santa Ynez, CA
+<ul>
+<li>Lead Designer - May 2015 to Sep 2015</li>
+<li>Made a Squarespace account for a Non-profit organization</li>
+<li>Two Step Verification Process Grants Access to Online
+Marketplace</li>
+<li>50+ Verified Users in the Santa Ynez valley currently using the product today</li>
+</ul>
 
 # EDUCATION
 Dev BootCamp July 2016 - November 2016
@@ -104,18 +107,23 @@ Dev BootCamp July 2016 - November 2016
 http://www.keepitcleansb.com/
 
 Site Consultant / Contributor
-Summer 2014 to
-Fall 2015
+
+Summer 2014 to Fall 2015
 Santa Barbara, CA
 Contributed to website design and creation while also participating in
 meet up events
 Cleaning up city blocks in Santa Barbara, Montecito and Goleta Areas
 
 # AWARDS
-Facebook · F8 SCHOLARSHIP May 2016
+### Facebook · F8 SCHOLARSHIP 
+
+May 2016
+
 Awarded one of 10 Scholarships in the first year of Facebook's F8
 program which only had a 4% acceptance rate
-Santa Barbara County · SPIRIT OF SERVICE AWARD
+### Santa Barbara County · SPIRIT OF SERVICE AWARD
+
 Feb 2016
+
 KeepitCleanSB was awarded by Santa Barbara County Mayor in the
 Clean Community category
