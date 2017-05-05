@@ -53,12 +53,16 @@ Skills Used - Ruby on Rails, Jquery, RESTful APIs, Google Maps
 API, SCSS, Bootstrap
 
 
-SANTA YNEZ VALLEY SAFE ACCESS
+## SANTA YNEZ VALLEY SAFE ACCESS
+https://www.syvsa.org/
+
 Non-profit based donation system I set up and moderate. Provides
 pain and stress relief for the retired community in Santa Ynez
+
 Simple website Configuration to enable easy use
 
 My role was Site creator and Administrator
+
 Skills Used - Squarespace, Online Store APIs, MySql, WuFoo
 forms
 
@@ -67,9 +71,12 @@ http://yesninja.com/
 
 Video game focusing on the effects of sleep paralysis through
 interactive gameplay
+
 Responsible for converting storyboards into playable game levels
 including cinematics, assets, and gameplay logic
+
 My role was level designer and asset creation team lead
+
 Skills Used - Unreal Engine 4, Github for Unreal, Maya, Mudbox,
 and Xbox Kinect for Motion Capture
 
@@ -83,6 +90,7 @@ directly to their seats</li>
 time for customers to get updates on their orders</li>
 <li>Processing payments through Square gives vendors more potential tip percentages</li>
 </ul>
+
 ## LEVEL DESIGNER, YESNINJA! Santa Barbara, CA
 Level Designer - Sep 2013 to Aug 2015
 <ul>
@@ -90,6 +98,7 @@ Level Designer - Sep 2013 to Aug 2015
 <li>Motion Capture Using Autodesk Maya and Xbox Kinect</li>
 <li>Cutscene Animation In Unreal Editor</li>
 </ul>
+
 ## SANTA YNEZ VALLEY SAFE ACCESS -  Santa Ynez, CA
 <ul>
 <li>Lead Designer - May 2015 to Sep 2015</li>
