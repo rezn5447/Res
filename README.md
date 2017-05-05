@@ -4,7 +4,9 @@
  Rezn5447@gmail.com  805-324-2053  El Cerrito, California
 
 LinkedIn : https://www.linkedin.com/in/resdan/ 
+
 Facebook : https://www.facebook.com/
+
 GitHub: https://github.com/rezn5447
 
 # SKILLS 
@@ -89,6 +91,7 @@ Dev BootCamp July 2016 - November 2016
 # VOLUNTEERING
 ## KEEPITCLEANSB ·
 http://www.keepitcleansb.com/
+
 Site Consultant / Contributor
 Summer 2014 to
 Fall 2015
