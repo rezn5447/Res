@@ -2,6 +2,7 @@
 # SOFTWARE ENGINEER
 ## RESDAN LOGAN
  Rezn5447@gmail.com  805-324-2053  El Cerrito, California
+
 LinkedIn : https://www.linkedin.com/in/resdan/ 
 Facebook : https://www.facebook.com/
 GitHub: https://github.com/rezn5447
@@ -23,6 +24,7 @@ Pair Programming, Agile Development, Test Driven Development, Scrum
 # PROJECTS
 ### INAB (I NEED A BEER)
 https://github.com/rezn5447/INAB
+
 Contract to build a mobile application that fixes the order system at
 stadiums by providing vendors direct access to their stadium goers
 Self-taught Xcode and Swift programming to create and iOS
@@ -33,6 +35,7 @@ Built using Xcode, Swift, and Firebase
 
 ### GO TEAM
 https://github.com/rezn5447/goteam-frontend
+
 Dev Bootcamp Final project that gave users the ability to find and play
 sports exhibitions with other users in their area. Provided
 matchmaking logic similar to video game lobbies
@@ -51,6 +54,7 @@ forms
 
 ### PHANTOM
 http://yesninja.com/
+
 Video game focusing on the effects of sleep paralysis through
 interactive gameplay
 Responsible for converting storyboards into playable game levels
