@@ -29,27 +29,35 @@ https://github.com/rezn5447/INAB
 
 Contract to build a mobile application that fixes the order system at
 stadiums by providing vendors direct access to their stadium goers
+
 Self-taught Xcode and Swift programming to create and iOS
 application
+
 Currently seeking investment partners to enable this application
 at Qualcomm stadium
+
 Built using Xcode, Swift, and Firebase
 
 ### GO TEAM
 https://github.com/rezn5447/goteam-frontend
 
 Dev Bootcamp Final project that gave users the ability to find and play
-sports exhibitions with other users in their area. Provided
-matchmaking logic similar to video game lobbies
+sports exhibitions with other users in their area.
+
+Provided matchmaking logic similar to video game lobbies
 Back-end Ruby on Rails API to Front-end framework
 My role was implementing Google Maps API to create
 matchmaking logic based on user address and skill level
+
 Skills Used - Ruby on Rails, Jquery, RESTful APIs, Google Maps
 API, SCSS, Bootstrap
+
+
 SANTA YNEZ VALLEY SAFE ACCESS
 Non-profit based donation system I set up and moderate. Provides
 pain and stress relief for the retired community in Santa Ynez
 Simple website Configuration to enable easy use
+
 My role was Site creator and Administrator
 Skills Used - Squarespace, Online Store APIs, MySql, WuFoo
 forms
@@ -68,13 +76,16 @@ and Xbox Kinect for Motion Capture
 # EMPLOYMENT
 ## INAB Santa Barbara, CA
 Full Stack Mobile Developer Oct 2015 to Current
-Mobile Application Designed to let stadium goes order beverages
-directly to their seats
-Firebase JSON backend Updates Orders being processed in real
-time for customers to get updates on their orders
-Processing payments through Square gives vendors more potential tip percentages
+<ul>
+<li>Mobile Application Designed to let stadium goes order beverages
+directly to their seats</li>
+<li>Firebase JSON backend Updates Orders being processed in real
+time for customers to get updates on their orders</li>
+<li>Processing payments through Square gives vendors more potential tip percentages</li>
+</ul>
 ## LEVEL DESIGNER, YESNINJA! Santa Barbara, CA
 Level Designer Sep 2013 to Aug 2015
+
 Game Programming and Design Using Unreal Engine Editor
 Motion Capture Using Autodesk Maya and Xbox Kinect
 Cutscene Animation In Unreal Editor
